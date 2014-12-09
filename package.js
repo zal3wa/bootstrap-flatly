@@ -1,8 +1,11 @@
 Package.describe({
-  summary: "Provides bootstrap 3 with Bootswatch Flatly theme."
+  summary: "Provides bootstrap with flatly theme.",
+  version: "0.0.3",
+  git: "https://github.com/zal3wa/bootstrap-flatly.git"
 });
 
 Package.on_use(function (api) {
+  api.versionsFrom("METEOR@0.9.0");
   api.use('jquery');
 
   var path = Npm.require('path');

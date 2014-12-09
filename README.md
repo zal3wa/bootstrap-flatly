@@ -1,14 +1,6 @@
-Meteor Bootswatch-Flatly
-==================
-
-[Bootstrap 3.x](http://getbootstrap.com) packaged for [Meteor](http://meteor.com).
-
-Changes default theme to [Bootswatch Flatly](http://bootswatch.com/flatly/).
-
-### Installation
-
-With [Meteorite](https://github.com/oortcloud/meteorite) installed:
-
-```sh
-$ mrt add bootswatch-flatly
-```
+# bootstrap-flatly
+bootstrap 3 with flatly theme -  packaged for meteor   
+[bootswatch - flatly](http://bootswatch.com/flatly/)   
+   
+### to install
+      mrt add bootstrap-flatly
